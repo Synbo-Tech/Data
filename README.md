@@ -12,7 +12,7 @@ The file content is as follows. Please read it carefully.
 ```json
 {
     "Token": {
-        "Name": "",<<<<  // For example, SYNBO
+        "Name": "",  // For example, SYNBO
         "Symbol": "", 
         "Logo": " ",  // svg，less 120*120
         "CA": " ",  // ERC20，BEP20 contract address.
