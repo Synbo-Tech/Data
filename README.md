@@ -1,6 +1,6 @@
 Please submit projects using feature branches. Add a new folder in the "projects" folder. The naming convention for folders is: TokenName_TokenSymbol_ChainName, e.g. : AlaphaSynboMeme_ASM_BSC
 
-Subsequently, you can add project basic information files, project detail files, and financing proposal files under this folder.
+Subsequently, you can add token info, project detail files, and financing proposal files under this folder.
 
 ## 1. Token Info
 ### Naming Convention
