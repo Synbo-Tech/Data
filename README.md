@@ -12,15 +12,15 @@ The file content is as follows. Please read it carefully.
 ```json
 {
     "Token": {
-        "Name": "",  // For example, SYNBO
+        "Name": "",<<<<  // For example, SYNBO
         "Symbol": "", 
-        "logo": " ",  // svg，less 120*120
+        "Logo": " ",  // svg，less 120*120
         "CA": " ",  // ERC20，BEP20 contract address.
         "TotalSupply": "",  // Total token supply
         "CirculatingSupply": "",  // Circulating supply
         "WhereChain": "",  // Token chain, e.g., ETH, BNB
         "TokenType": "",  // e.g., ERC20, BEP20, Native Token
-        "Tags":",", // multi-choice, like: Infra,DeFi,AI,Layer1,Layer2,DePIN,Modular,Cloud Computing,Restaking,LSD,others, 
+        "Tags":",", // multi-choice, "like": Infra,DeFi,AI,Layer1,Layer2,DePIN,Modular,Cloud Computing,Restaking,LSD,others, 
         "Token-Description": "",  // Description of the token’s function, utility, or lifecycle
         "Project-Relationship": " " // Explain its relationship with the project.
     },
