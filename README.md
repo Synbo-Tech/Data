@@ -158,12 +158,22 @@ Clearly define the intended use of funds, including:
 - Team expansion and talent recruitment
 - Daily operations and overheads
 
-#### 5.2 Budget Allocation Table
-Click the image to view the complete spreadsheet
+### 5.2 Budget Allocation Table
+| Category | Estimated Amount (USD) | Description |
+| ---- | ---- | ---- |
+| Product R&D | [X] | Feature iterations, tech upgrades |
+| Marketing | [X] | Advertising, brand campaigns, social media operations |
+| Team Expansion | [X] | Recruitment and staff training |
+| Operational Costs | [X] | Rent, utilities, equipment procurement |
 
-#### 5.3 Funding Timeline & Milestones
+### 5.3 Funding Timeline & Milestones
 The expected usage period for this round of financing is 6–12 months, with key milestones as follows:
-Click the image to view the complete spreadsheet
+| Phase | Time Frame | Key Milestone |
+| ---- | ---- | ---- |
+| Phase 1 | Months 0–3 | MVP development and launch of core product |
+| Phase 2 | Months 3–6 | Initial marketing campaign, achieving early user base |
+| Phase 3 | Months 6–9 | Feature optimization, improving UX & retention |
+| Phase 4 | Months 9–12 | Overseas market expansion, preparation for next round | 
 
 ### 6. Community Rights & Participation
 #### 6.1 Participation Rights
