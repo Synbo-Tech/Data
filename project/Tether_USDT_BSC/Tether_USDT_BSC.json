@@ -19,14 +19,14 @@
         "Chains": "ETH,TRX,BNB,SOL,AVAX,OMNI,ALGO,etc",
         "Tokens":"0x55d398326f99059fF775485246999027B3197955"
   },
-   "social": {
-          "website": "https://tether.to/",
-          "twitter": "https://x.com/Tether_to",
-          "telegram": "https://t.me/OfficialTether",
-          "github": "",
-          "medium": "",
-          "discord": "",
-          "email": "",
-          "others": ""
+   "Social": {
+          "Website": "https://tether.to/",
+          "Twitter": "https://x.com/Tether_to",
+          "Telegram": "https://t.me/OfficialTether",
+          "Github": "",
+          "Medium": "",
+          "Discord": "",
+          "Email": "",
+          "Others": ""
     }
 }
