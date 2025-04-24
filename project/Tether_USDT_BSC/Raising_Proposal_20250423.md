@@ -4,7 +4,7 @@
 ## 2. Asset Description & Valuation
 ### 2.1 Asset Details
 - Asset Name: USDT (Tether, BEP - 20)
-- Total Supply: 148,032,435,818.715 USDT (There is no additional issuance mechanism, and it is pegged 1:1 to the US dollar).
+- Total Supply: 148,032,435,818.715 USDT (There is no additional  issuance mechanism, and it is pegged 1:1 to the US dollar).
 - Functional Purposes:
     - Payment and Settlement: It serves as a primary medium of exchange for cross - border payments, decentralized finance (DeFi) lending and borrowing, and decentralized exchange (DEX) transactions.
     - Liquidity Provision: It is used for staking, liquidity pool incentives, and to improve capital efficiency.
