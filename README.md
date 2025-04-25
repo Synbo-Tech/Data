@@ -9,40 +9,38 @@ e.g. : AlaphaSynboMeme_ASM_BSC.Json
 
 ### File Content
 The file content is as follows. Please read it carefully.
-```json
 {
     "Token": {
-        "Name": "",  // For example, SYNBO
-        "Symbol": "", 
-        "Logo": " ",  // svg，less 120*120
-        "CA": " ",  // ERC20，BEP20 contract address.
-        "TotalSupply": "",  // Total token supply
-        "CirculatingSupply": "",  // Circulating supply
-        "WhereChain": "",  // Token chain, e.g., ETH, BNB
-        "TokenType": "",  // e.g., ERC20, BEP20, Native Token
-        "Tags":",", // multi-choice, "like": Infra,DeFi,AI,Layer1,Layer2,DePIN,Modular,Cloud Computing,Restaking,LSD,others, 
-        "Token-Description": "",  // Description of the token’s function, utility, or lifecycle
-        "Project-Relationship": " " // Explain its relationship with the project.
-    },
-    "Project": {
-        "Title": "",  // Project name, e.g., "SYNBO protocol"
-        "Logo": "",  // svg file，less 300*300
-        "Description": "",  // Project introduction within 50 characters
-        "Chains": "",  // Supported blockchains, e.g., "ETH, BNB" , MiltiChain
-        "Tokens":" " // List of Tokens Related to the Project， Format："Token-CA,Token-CA"
-    },
-    "Social": {
-        "Website": "",
-        "Twitter": "",
-        "Telegram": "",
-        "Github": "",
-        "Medium": "",
-        "Discord": "",
-        "Email": "",
-        "Others": ""
-    }
-}
-```
+        "Name": "",  // For example, SYNBO  
+        "Symbol": "",   
+        "Logo": " ",  // svg，less 120 * 120  
+        "CA": " ",  // ERC20，BEP20 contract address    
+        "TotalSupply": "",  // Total token supply  
+        "CirculatingSupply": "",  // Circulating supply  
+        "WhereChain": "",  // Token chain, e.g., ETH, BNB  
+        "TokenType": "",  // e.g., ERC20, BEP20, Native Token  
+        "Tags":",", // multi-choice, "like": Infra,DeFi,AI,Layer1,Layer2,DePIN,Modular,Cloud Computing,Restaking,LSD,others      
+        "Token-Description": "",  // Description of the token’s function, utility, or lifecycle  
+        "Project-Relationship": " " // Explain its relationship with the project   
+    },   
+    "Project": {  
+        "Title": "",  // Project name, e.g., "SYNBO protocol"  
+        "Logo": "",  // svg file，less 300 * 300   
+        "Description": "",  // Project introduction within 50 characters   
+        "Chains": "",  // Supported blockchains, e.g., "ETH, BNB" , MiltiChain  
+        "Tokens":" " // List of Tokens Related to the Project， Format："Token-CA,Token-CA"   
+    },   
+    "Social": {   
+        "Website": "",   
+        "Twitter": "",   
+        "Telegram": "",   
+        "Github": "",   
+        "Medium": "",   
+        "Discord": "",   
+        "Email": "",   
+        "Others": ""  
+    }  
+}   
 
 ## 2. Project Detail File
 ### Naming Convention
