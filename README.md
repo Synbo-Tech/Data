@@ -9,6 +9,7 @@ e.g. : AlaphaSynboMeme_ASM_BSC.Json
 
 ### File Content
 The file content is as follows. Please read it carefully.
+```javascript
 {
     "Token": {
         "Name": "",  // For example, SYNBO  
@@ -41,7 +42,7 @@ The file content is as follows. Please read it carefully.
         "Others": ""  
     }  
 }   
-
+```
 ## 2. Project Detail File
 ### Naming Convention
 - Project_Details.md
