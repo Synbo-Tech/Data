@@ -7,7 +7,7 @@
 - Total Supply: 148,032,435,818.715 USDT (There is no additional  issuance mechanism, and it is pegged 1:1 to the US dollar).
 - Functional Purposes:
     - Payment and Settlement: It serves as a primary medium of exchange for cross - border payments, decentralized finance (DeFi) lending and borrowing, and decentralized exchange (DEX) transactions.
-    - Liquidity Provision: It is used for staking, liquidity pool incentives, and to improve capital efficiency.
+    - Liquidity Provision: It is used for staking, liquidity pool incentives, and to improve capital efficiency
     - Stablecoin Reserve: It ensures the stability of project funds and reduces the risk of market fluctuations.
 - Technical Implementation: 
     - Blockchain: Binance Smart Chain (BSC)
