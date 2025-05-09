@@ -8,7 +8,7 @@
 - Functional Purposes:
     - Payment and Settlement: It serves as a primary medium of exchange for cross - border payments, decentralized finance (DeFi) lending and borrowing, and decentralized exchange (DEX) transactions.
     - Liquidity Provision: It is used for staking, liquidity pool incentives, and to improve capital efficiency.
-    - Stablecoin Reserve: It ensures the stability of project funds and reduces the risk of market fluctuations.
+    - Stablecoin Reserve: It ensures the stability of project funds and reduces the risk of market fluctuations
 - Technical Implementation: 
     - Blockchain: Binance Smart Chain (BSC)
     - Contract Standard: BEP - 20 (compatible with ERC - 20)
