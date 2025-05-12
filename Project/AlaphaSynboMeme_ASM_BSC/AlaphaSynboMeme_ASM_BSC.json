@@ -1,29 +1,32 @@
 {
-  "ProjectBasicInformation": {
-    "Title": "Alpha Synbo meme",
-    "Logo": "https://picsum.photos/200/200?random=1",
-    "Introduction": "A decentralized venture capital protocol based on liquidity and Position Proof, aiming to provide efficient, transparent and excellent digital asset investment services.",
-    "Chains": "BSC",
-    "Tags": ["DeFi", "Venture Capital", "Blockchain"],
-    "MediaLinks": {
-      "website": "https://synbo.org",
-      "twitter": "https://twitter.com/SynboLabs",
-      "telegram": "https://t.me/SynboLabs",
-      "github": "https://github.com/SynboLabs",
-      "medium": "https://medium.com/SynboLabs",
-      "discord": "https://discord.gg/SynboLabs",
-      "email": "labs@synbo.io",
-      "others": ""
+    "Token": {
+        "Name": "Alpha Synbo Meme",
+        "Symbol": "ASM",
+        "Logo": "<svg t="1747033610328" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="1488" width="200" height="200"><path d="M1023.082985 511.821692c0 281.370746-228.08199 509.452736-509.452736 509.452736-281.360557 0-509.452736-228.08199-509.452737-509.452736 0-281.365652 228.092179-509.452736 509.452737-509.452737 281.370746 0 509.452736 228.087085 509.452736 509.452737" fill="#1BA27A" p-id="1489"></path><path d="M752.731701 259.265592h-482.400796v116.460896h182.969951v171.176119h116.460895v-171.176119h182.96995z" fill="#FFFFFF" p-id="1490"></path><path d="M512.636816 565.13592c-151.358408 0-274.070289-23.954468-274.070289-53.50782 0-29.548259 122.706786-53.507821 274.070289-53.507821 151.358408 0 274.065194 23.959562 274.065194 53.507821 0 29.553353-122.706786 53.507821-274.065194 53.50782m307.734925-44.587303c0-38.107065-137.776398-68.995184-307.734925-68.995184-169.953433 0-307.74002 30.888119-307.74002 68.995184 0 33.557652 106.837333 61.516418 248.409154 67.711363v245.729433h116.450707v-245.632637c142.66205-6.001353 250.615085-34.077294 250.615084-67.808159" fill="#FFFFFF" p-id="1491"></path></svg>",
+        "CA": "0x3fC6B3c17E53580BAd24978E199a62Ee7Ef995fD",
+        "TotalSupply": "30000000",
+        "CirculatingSupply": "",
+        "WhereChain": "BSC",
+        "TokenType": "BEP20",
+        "Tags": "DeFi, Infra",
+        "Token-Description": "Alpha Synbo Meme (ASM) serves as the operational token for the Alpha prior version of Synbo Protocol. It is used for governance (Position Proof voting), liquidity mining incentives, and provides access to Synbo Protocol’s 1.5-Tier market.",
+        "Project-Relationship": "ASM is the native token of Synbo Protocol, playing a crucial role in its system functions and operations, and is integral to the protocol's ecosystem development."
+    },
+    "Project": {
+        "Title": "Synbo Protocol",
+        "Logo": "",
+        "Description": "Synbo Protocol is a decentralized venture capital fund protocol based on liquidity and Position Proof, aiming to be an efficient, transparent, and outstanding digital fund.",
+        "Chains": "BSC",
+        "Tokens": "0x3fC6B3c17E53580BAd24978E199a62Ee7Ef995fD"
+    },
+    "Social": {
+        "Website": "https://synbo.org",
+        "Twitter": "https://twitter.com/SynboLabs",
+        "Telegram": "https://t.me/SynboLabs",
+        "Github": "https://github.com/SynboLabs",
+        "Medium": "https://medium.com/SynboLabs",
+        "Discord": "https://discord.gg/SynboLabs",
+        "Email": "labs@synbo.io",
+        "Others": ""
     }
-  },
-  "TokenInformation": {
-    "TokenName": "Alpha Synbo Meme",
-    "TokenSymbol": "ASM",
-    "TokenAddress": "0x3fC6B3c17E53580BAd24978E199a62Ee7Ef995fD",
-    "TokenTotalSupply": "30,000,000",
-    "TokenCirculatingSupply": "15,000,000",
-    "WhereChain": "BSC",
-    "TokenType": "BEP20",
-    "TokenInfo": "The governance and utility token of Synbo Protocol, used for voting, liquidity mining and accessing premium features."
-  }
-}
+} 
