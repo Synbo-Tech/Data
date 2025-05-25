@@ -1,22 +1,22 @@
 "Token": {
-        "Name": "Binance-Peg BSC-USD (BSC-USD)",  // For example, SYNBO  
+        "Name": "Binance-Peg BSC-USD (BSC-USD)",  
         "Symbol": "USDT",   
-        "Logo": "<svg t="1748177129713" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="2638" width="200" height="200"><path d="M510.85 511.04m-447.5 0a447.5 447.5 0 1 0 895 0 447.5 447.5 0 1 0-895 0Z" fill="#26A17B" p-id="2639"></path><path d="M783.54 486.55c0-42.01-102.97-66.63-218.61-72.47v-51.42h161.54V254.48H295.21v108.18h161.55v51.42c-115.63 5.84-218.61 30.47-218.61 72.47 0 41.99 102.97 66.61 218.61 72.45v208.6h108.18V559.01c115.63-5.84 218.6-30.47 218.6-72.46z m-218.61 54.46v-0.22c-17.67 1.08-36.06 1.44-54.09 1.44s-36.42-0.36-54.09-1.44v0.22c-125.5-6.34-200.58-33.94-200.58-54.46 0-20.51 75.07-48.13 200.58-54.47v90.68c17.31 1.08 35.34 1.44 54.09 1.44 19.11 0 37.14-0.36 54.09-1.44v-90.68c125.5 6.34 200.58 33.96 200.58 54.47 0 20.52-75.07 48.12-200.58 54.46z" fill="#FFFFFF" p-id="2640"></path></svg>",  // svg，less 120 * 120  
-        "CA": "0x55d398326f99059fF775485246999027B3197955",  // ERC20，BEP20 contract address    
-        "TotalSupply": "5980000000",  // Total token supply  
-        "CirculatingSupply": "5980000000",  // Circulating supply  
-        "WhereChain": "BSC",  // Token chain, e.g., ETH, BSC 
-        "TokenType": "BEP20",  // e.g., ERC20, BEP20, Native Token  
-        "Tags":"Stablecoin", // multi-choice, "like": Infra,DeFi,AI,Layer1,Layer2,DePIN,Modular,Cloud Computing,Restaking,LSD,others      
-        "Token-Description": "A USD-pegged stablecoin designed for fast transactions, trading, and cross-border payments. Backed 1:1 by Tether’s reserves.",  // Description of the token’s function, utility, or lifecycle  
-        "Project-Relationship": "USDT is the native stablecoin issued by Tether, serving as the core asset for liquidity and settlements within its ecosystem." // Explain its relationship with the project   
+        "Logo": "<svg t="1748177129713" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="2638" width="200" height="200"><path d="M510.85 511.04m-447.5 0a447.5 447.5 0 1 0 895 0 447.5 447.5 0 1 0-895 0Z" fill="#26A17B" p-id="2639"></path><path d="M783.54 486.55c0-42.01-102.97-66.63-218.61-72.47v-51.42h161.54V254.48H295.21v108.18h161.55v51.42c-115.63 5.84-218.61 30.47-218.61 72.47 0 41.99 102.97 66.61 218.61 72.45v208.6h108.18V559.01c115.63-5.84 218.6-30.47 218.6-72.46z m-218.61 54.46v-0.22c-17.67 1.08-36.06 1.44-54.09 1.44s-36.42-0.36-54.09-1.44v0.22c-125.5-6.34-200.58-33.94-200.58-54.46 0-20.51 75.07-48.13 200.58-54.47v90.68c17.31 1.08 35.34 1.44 54.09 1.44 19.11 0 37.14-0.36 54.09-1.44v-90.68c125.5 6.34 200.58 33.96 200.58 54.47 0 20.52-75.07 48.12-200.58 54.46z" fill="#FFFFFF" p-id="2640"></path></svg>",   
+        "CA": "0x55d398326f99059fF775485246999027B3197955",  
+        "TotalSupply": "5980000000", 
+        "CirculatingSupply": "5980000000", 
+        "WhereChain": "BSC", 
+        "TokenType": "BEP20",  
+        "Tags":"Stablecoin",     
+        "Token-Description": "A USD-pegged stablecoin designed for fast transactions, trading, and cross-border payments. Backed 1:1 by Tether’s reserves.",  
+        "Project-Relationship": "USDT is the native stablecoin issued by Tether, serving as the core asset for liquidity and settlements within its ecosystem."   
     },   
     "Project": {  
-        "Title": "Tether",  // Project name, e.g., "SYNBO protocol"  
-        "Logo": "<svg t="1748177129713" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="2638" width="200" height="200"><path d="M510.85 511.04m-447.5 0a447.5 447.5 0 1 0 895 0 447.5 447.5 0 1 0-895 0Z" fill="#26A17B" p-id="2639"></path><path d="M783.54 486.55c0-42.01-102.97-66.63-218.61-72.47v-51.42h161.54V254.48H295.21v108.18h161.55v51.42c-115.63 5.84-218.61 30.47-218.61 72.47 0 41.99 102.97 66.61 218.61 72.45v208.6h108.18V559.01c115.63-5.84 218.6-30.47 218.6-72.46z m-218.61 54.46v-0.22c-17.67 1.08-36.06 1.44-54.09 1.44s-36.42-0.36-54.09-1.44v0.22c-125.5-6.34-200.58-33.94-200.58-54.46 0-20.51 75.07-48.13 200.58-54.47v90.68c17.31 1.08 35.34 1.44 54.09 1.44 19.11 0 37.14-0.36 54.09-1.44v-90.68c125.5 6.34 200.58 33.96 200.58 54.47 0 20.52-75.07 48.12-200.58 54.46z" fill="#FFFFFF" p-id="2640"></path></svg>",  // svg file，less 300 * 300   
-        "Description": "Leading stablecoin provider enabling global digital transactions",  // Project introduction within 50 characters   
-        "Chains": "ETH, BNB, TRON, SOL, AVAX",  // Supported blockchains, e.g., "ETH, BSC" , MiltiChain  
-        "Tokens":"USDT-0x55d398326f99059fF775485246999027B3197955，" // List of Tokens Related to the Project， Format："Token-CA,Token-CA"   
+        "Title": "Tether", 
+        "Logo": "<svg t="1748177129713" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="2638" width="200" height="200"><path d="M510.85 511.04m-447.5 0a447.5 447.5 0 1 0 895 0 447.5 447.5 0 1 0-895 0Z" fill="#26A17B" p-id="2639"></path><path d="M783.54 486.55c0-42.01-102.97-66.63-218.61-72.47v-51.42h161.54V254.48H295.21v108.18h161.55v51.42c-115.63 5.84-218.61 30.47-218.61 72.47 0 41.99 102.97 66.61 218.61 72.45v208.6h108.18V559.01c115.63-5.84 218.6-30.47 218.6-72.46z m-218.61 54.46v-0.22c-17.67 1.08-36.06 1.44-54.09 1.44s-36.42-0.36-54.09-1.44v0.22c-125.5-6.34-200.58-33.94-200.58-54.46 0-20.51 75.07-48.13 200.58-54.47v90.68c17.31 1.08 35.34 1.44 54.09 1.44 19.11 0 37.14-0.36 54.09-1.44v-90.68c125.5 6.34 200.58 33.96 200.58 54.47 0 20.52-75.07 48.12-200.58 54.46z" fill="#FFFFFF" p-id="2640"></path></svg>",  
+        "Description": "Leading stablecoin provider enabling global digital transactions",  
+        "Chains": "ETH, BNB, TRON, SOL, AVAX",  
+        "Tokens":"USDT-0x55d398326f99059fF775485246999027B3197955，" 
     },   
     "Social": {   
         "Website": "https://tether.to",
