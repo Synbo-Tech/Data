@@ -1,6 +1,6 @@
 ## USDT De-Pegging Airdrop by C2C de-pegging
 
-Here is the **USDT de-pegging airdrop**. In this event, you are encouraged to think about how to **maximize your own benefit** in order to clearly understand the underlying mechanism.
+Here is the **USDT de-pegging airdrop**. In this event, you are encouraged to think about how to **maximize your own benefit** in order to clearly understand the underlying mechanism. 
 
 ---
 
