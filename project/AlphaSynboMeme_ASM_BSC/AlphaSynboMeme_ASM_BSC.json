@@ -1,0 +1,32 @@
+{
+    "Token": {
+        "Name": "Alpha Synbo meme",
+        "Symbol": "ASM",
+        "Logo": "<svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" width=\"120px\" height=\"120px\" viewBox=\"0 0 120 120\" enable-background=\"new 0 0 120 120\" xml:space=\"preserve\">  <image id=\"image0\" width=\"120\" height=\"120\" x=\"0\" y=\"0\" xlink:href=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAMAAAAOusbgAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAABRUExURQAAAEAA/z8A/z8A/0AA/z4A/z8A/z4A/z8A/0AA/0AA/0AA/0AA/z4A/0AA/0AA/0AA/z8A/0AA/0AA/0AA/z8A/0AA/0AA/0AA/z8A/////6eCHTcAAAAZdFJOUwAgv68Qf+9v32BAn1CPMIC/z3CgkJ/fr7C9HH7GAAAAAWJLR0QadWfkMgAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB+kGAg8bDp0EfGEAAAK1SURBVGje7ZrdYoMgDIWls5bSTbSt2/L+L7rVdk4USEDAm+S2kq+c+BdPqio6xOFNxK+OjvrYAMCxLs09PbC/Ic9FseoAUxTUW7yBEYX0fhbXiCJ6nyVYIrve8+IW1Lu+gDvy6W0pbhG93yWgkUFvd3Gz6l1/kLCp9UaLm0nvllBcU+/3NGAdyAXoGMxgBjOYwQxmMIMZnArcyV3AvXK1jlnBzXX8Teiy4EZPL+3iVhB8N3qF9Qt/JnC36o6Wpc4C7pTlkFrnBjvbUKPUicBqEnJ2TlnQ02H3ZO25fubUSMJnqaWiJSXFQ8iO0HHrJuF2X2jaPoiHcXBwcHBwREWbJk3oQ7K+wJDgi7c4BKYZv4y/3tk3xGhASnqa6SVLbtp0+2djED+cG87hhk1fZ2kIei/8hyEebLY2R+RotegJkoH9xpBYmUvpwB69bS5PSrDLGLJaeGnBNr1bu4WXGAzQm3o7LbzkYICPGfrktPAygP/19hmlOcCvO6LfKM0DHi8tv1GaCwyygn3AsB94J6mh+tyrxgxmcDZwvw+4rw65wF/exB0Cju4nsCEdFBw5NnTChnRwcEw/0eJJKeDft5Wgno80CkUDB+lNGTh7gG+Uw+gnmaANnME3FYx3P6PK5MmvgQ4mdJuKPvkVAsb09g5PbgN7TzL00t0Cdl/UxCnGeDCA9XOQCs0yVPfQJSoJWIf74QxmMBUccJsbw24x1oFZ5OOiDNmz+/vmOQD9ZwcL8k1k8PnH5CyzSWjawxtzhmljyYssV3RRoys0NPqgWGfBlKL41ngWa618StH9d99J1qvQRdh0gKm3S2XPx2+7UjSVZ1ms3QsyPCBWm24iWom1dB1eq8WiuCkHYT7mab7KXG/CHyVIR/7zog/5o5h0XYh3Ni4aNs6SjNKFniJCpxidaaXzQvwBWhj8ZtTJz/oAAAAl dEVYdGRhdGU6Y3JlYXRlADIwMjUtMDYtMDJUMTU6Mjc6MTQrMDA6MDBfHGsSAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDI1LTA2LTAyVDE1OjI3OjE0KzAwOjAwLkHTrgAAACh0RVh0ZGF0ZTp0aW1lc3RhbXAA MjAyNS0wNi0wMlQxNToyNzoxNCswMDowMHlU8nEAAAAASUVORK5CYII=\" /></svg>\",
+        "CA": "0x3fC6B3c17E53580BAd24978E199a62Ee7Ef995fD",
+        "TotalSupply": "30000000",
+        "CirculatingSupply": "15000000",
+        "WhereChain": "BSC",
+        "TokenType": "BEP20",
+        "Tags": "DeFi, DeVC",
+        "Token-Description": "Alpha Synbo Meme (ASM) serves as the operational token for the Alpha prior version of Synbo Protocol. It is used for governance (Position Proof voting), liquidity mining incentives, and provides access to Synbo Protocol’s 1.5-Tier market.",
+        "Project-Relationship": "ASM is the native token of Synbo Protocol,playing a crucial role in its system functions and operations, and is integral to the protocol's ecosystem development."
+    },
+    "Project": {
+        "Title": "Synbo Protocol",
+        "Logo": "<svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" width=\"81px\" height=\"81px\" viewBox=\"0 0 81 81\" enable-background=\"new 0 0 81 81\" xml:space=\"preserve\">  <image id=\"image0\" width=\"81\" height=\"81\" x=\"0\" y=\"0\" xlink:href=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAABRCAQAAAAAhoK9AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB+kGAg8pMcYSBS0AAAMFSURBVGje7ZrRlZswEEWf9qQASpA7cAm4gpAOlArWqcBsBXYqsFOB0wHugBLsVIBTwcuHWa8xMkhjEOwJ7xtpLjMCaUYDdChGXPNI3eWcnYqvLHjRdoSYjJnxVkeaoZlu8SJuaVM+El9ydQ2vTStGw+LFPLJNw4Wc+m71NSn858OoJbzWkIcETBzCaw/5XGLvRTAmgRa9m0YSCjGwJsQJcSyaECfEsWhCHB/iGT+wwGmsiGe8YaY26qBm+N41pqe4sxy09tVDK7X1qVRirwsvHrBQ31TFb+qkDGb4PZQXU/fMhObm+FswCQd5MVwwdcnvmLIgmYXPX4x7+kk9qsR/0n8gRtxyPZKJhjXwPf0fV1Xsindf3RlLVazEe1TdGboqVuI1V3eGD3lle3uk/WAhr5WOG6tiwUPOiGvvqpgJi1h4Al4khJSdFyPRKB0SMagmxAmRMV9DIHAusnP981nvRUW/nAcpKlelncQP0FT+fMu+EKkrG6jrBRLntY0t6w0xvnuisF0gVdYiI66QIxasjG4UIeWRd/ZvEJkgR+ozYy/SyKohLxGpmWEv3aI6l0H28QW8jCC8NmlcuyxeGCNHKjwY9I155Jb6C7Ln5+pRBn8+9wbYIEkV9oCdFPHsP0jtsMAvjwEnLNSiWiTtGfFahXUxesabmqmDDA/A6Ym1qE4OhfefmKlUbgNwW4tRA2ZTyA9YqKU6PwcIwKkVo+UMwnltlqJ+PqqNMk6ZpHFDdDDJ5c1Mm7bU3qPLxxmRZFvbX3nX4lB29+ryMWDu/DDZWvpwwHNp4rpVAo/KzLsvTRvGQzz/QgsZ+yOSwh4wJqJCSyz7LxpkvjdRzLCXnaekv26Nr54jYqGlT57qj0XCYwSAvwEpK5e3bir8L7/v0no35deElZp7j4Hia1un8v2HG5ay4U9eez9oSKhrb93FqLlpGdh6POjEl7V6hOuKyRsH+mI+Wv9uq9zyloLPo9WKzRnuq/xuxfTW1VBxxtE7SuVb9twVUjrDsRHENkES4mKMpjlK/wD2njM6meDRMgAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyNS0wNi0wMlQxNTo0MTo0OSswMDowMJOAvrIAAAAl dEVYdGRhdGU6bW9kaWZ5ADIwMjUtMDYtMDJUMTU6NDE6NDkrMDA6MDDi3QYOAAAAKHRFWHRkYXRlOnRpbWVzdGFtcAAyMDI1LTA2LTAyVDE1OjQxOjQ5KzAwOjAwtcgn0QAAAABJRU5ErkJggg==\" /></svg>",
+        "Description": "Synbo Protocol is a decentralized venture capital fund protocol based on liquidity and Position Proof, aiming to be an efficient, transparent, and outstanding digital fund.",
+        "Chains": "BSC",
+        "Tokens": "0x3fC6B3c17E53580BAd24978E199a62Ee7Ef995fD"
+    },
+    "Social": {
+        "Website": "https://synbo.org",
+        "Twitter": "https://twitter.com/SynboLabs",
+        "Telegram": "https://t.me/SynboDAO",
+        "Github": " ",
+        "Medium": " ",
+        "Discord": " ",
+        "Email": "labs@synbo.io",
+        "Others": ""
+    }
+}
