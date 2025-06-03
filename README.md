@@ -1,12 +1,53 @@
-Please submit projects using feature branches. Add a new folder in the "projects" folder. The naming convention for folders is: TokenName_TokenSymbol_ChainName, e.g. : AlaphaSynboMeme_ASM_BSC
+# Project Submission Guidelines
 
-Subsequently, you can add token info, project detail files, and financing proposal files under this folder.
+Please submit projects using **feature branches**.
 
-To submit information on GitHub, you need to follow the naming rules and submit the following files.
-- TokenName_TokenSymbol_ChainName.Json  e.g. : AlaphaSynboMeme_ASM_BSC.Json
-- Project_Details.md
-- Raising_Proposal_CreationTime.md  e.g. :Raising_Proposal_20250423.md
-- Withdrawal_Protosal_CreationTime.md  e.g. :Withdrawal_Protosal_20250423.md （It can be created later.）
+Within the `projects` folder, create a **new subfolder** following this naming convention:  
+`TokenName_TokenSymbol_ChainName`  
+Example: `AlphaSynboMeme_ASM_BSC`
+
+---
+
+## Folder Structure
+
+Inside this folder, include the following files:
+
+### 1. Token Metadata File  
+- Filename: `TokenName_TokenSymbol_ChainName.json`  
+- Example: `AlphaSynboMeme_ASM_BSC.json`
+
+### 2. Project Details (Descriptive Content)  
+- Filename: `Project_Details.md`  
+- Format: Markdown (`.md`)
+
+### 3. Financing Proposal  
+- Filename: `Raising_Proposal_YYYYMMDD.md`  
+- Example: `Raising_Proposal_20250423.md`  
+- Format: Markdown (`.md`)
+
+### 4. Withdrawal Proposal *(optional, can be added later)*  
+- Filename: `Withdrawal_Proposal_YYYYMMDD.md`  
+- Example: `Withdrawal_Proposal_20250423.md`  
+- Format: Markdown (`.md`)
+
+---
+
+## Notes
+
+- All descriptive documentation **must be written in Markdown (`.md`) format**.
+- Please follow all naming conventions strictly when submitting on GitHub.
+
+---
+
+## Example Structure
+
+projects/
+└── AlphaSynboMeme_ASM_BSC/
+    ├── AlphaSynboMeme_ASM_BSC.json
+    ├── Project_Details.md
+    ├── Raising_Proposal_20250423.md
+    └── Withdrawal_Proposal_20250423.md
+
 
 An example is shown below.
 
