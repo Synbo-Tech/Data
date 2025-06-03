@@ -9,7 +9,7 @@
         "WhereChain": "BSC", 
         "TokenType": "BEP20",  
         "Tags":"Stablecoin",     
-        "Token-Description": "A USD-pegged stablecoin designed for fast transactions, trading, and cross-border payments. Backed 1:1 by Tether’s reserves.",  
+        "Token-Description": "A USD-pegged stablecoin designed for fast transactions, trading, and cross-border payments. Backed 1:1 by Tether’s reserves",  
         "Project-Relationship": "USDT is the native stablecoin issued by Tether, serving as the core asset for liquidity and settlements within its ecosystem."   
     },   
     "Project": {  
