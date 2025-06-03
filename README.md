@@ -2,6 +2,14 @@ Please submit projects using feature branches. Add a new folder in the "projects
 
 Subsequently, you can add token info, project detail files, and financing proposal files under this folder.
 
+To submit information on GitHub, you need to follow the naming rules and submit the following files.
+- TokenName_TokenSymbol_ChainName.Json  e.g. : AlaphaSynboMeme_ASM_BSC.Json
+- Project_Details.md
+- Raising_Proposal_CreationTime.md  e.g. :Raising_Proposal_20250423.md
+- Withdrawal_Protosal_CreationTime.md  e.g. :Withdrawal_Protosal_20250423.md （It can be created later.）
+
+An example is shown below.
+
 ## 1. Token Info
 ### Naming Convention
 - TokenName_TokenSymbol_ChainName.Json
