@@ -9,7 +9,7 @@
         "WhereChain": "BSC",
         "TokenType": "BEP20",
         "Tags": "DeFi, DeVC",
-        "Token-Description": "Alpha Synbo Meme (ASM) serves as the operational token for the Alpha prior version of Synbo Protocol. It is used for governance (Position Proof voting), liquidity mining incentives, and provides access to Synbo Protocol’s 1.5-Tier market",
+        "Token-Description": "Alpha Synbo Meme (ASM) serves as the operational token for the Alpha prior version of Synbo Protocol. It is used for governance (Position Proof voting), liquidity mining incentives, and provides access to Synbo Protocol’s 1.5-Tier market.",
         "Project-Relationship": "ASM is the native token of Synbo Protocol,playing a crucial role in its system functions and operations, and is integral to the protocol's ecosystem development."
     },
     "Project": {
