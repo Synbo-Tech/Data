@@ -1,0 +1,31 @@
+{
+    "Token": {
+        "Name": "HeiwukongToken", 
+        "Symbol": "HEI",   
+        "Logo": "",   
+        "CA": "0x4396727E7adaC2Ac5f7Ed75D0a275af0dBa1B991",      
+        "TotalSupply": "999999999", 
+        "CirculatingSupply": "999999999",  
+        "WhereChain": "BSC", 
+        "TokenType": "BEP20",  
+        "Tags":"MEME",    
+        "Token-Description": "The spirit of Black Wukong is all about “being the king, even against the odds.” It stands for unity, freedom, rising from adversity, daring to play, and endless creativity. No matter how tough reality gets, we stay optimistic, have fun together, and face everything with a smile!",  
+    },   
+    "Project": {  
+        "Title": "HeiwukongToken",  
+        "Logo": "", 
+        "Description": "It's a MEME , The spirit of Black Wukong is all about “being the king, even against the odds.", 
+        "Chains": "BSC",  
+        "Tokens":"HEI"    
+    },   
+    "Social": {   
+        "Website": "",   
+        "Twitter": "",   
+        "Telegram": "",   
+        "Github": "",   
+        "Medium": "",   
+        "Discord": "",   
+        "Email": "",   
+        "Others": ""  
+    }  
+}   
