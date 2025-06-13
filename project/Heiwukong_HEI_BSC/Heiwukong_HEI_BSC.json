@@ -1,23 +1,22 @@
 {
     "Token": {
-        "Name": "HeiwukongToken",  // For example, SYNBO  
+        "Name": "HeiwukongToken", 
         "Symbol": "HEI",   
-        "Logo": "",  // svg，less 120 * 120  
-        "CA": "0x4396727E7adaC2Ac5f7Ed75D0a275af0dBa1B991",  // ERC20，BEP20 contract address    
-        "TotalSupply": "999999999",  // Total token supply  
-        "CirculatingSupply": "999999999",  // Circulating supply  
-        "WhereChain": "BSC",  // Token chain, e.g., ETH, BNB  
-        "TokenType": "BEP20",  // e.g., ERC20, BEP20, Native Token  
-        "Tags":"MEME", // multi-choice, "like": Infra,DeFi,AI,Layer1,Layer2,DePIN,Modular,Cloud Computing,Restaking,LSD,others      
-        "Token-Description": "The spirit of Black Wukong is all about “being the king, even against the odds.” It stands for unity, freedom, rising from adversity, daring to play, and endless creativity. No matter how tough reality gets, we stay optimistic, have fun together, and face everything with a smile!",  // Description of the token’s function, utility, or lifecycle  
-        "Project-Relationship": "-" // Explain its relationship with the project   
+        "Logo": "",   
+        "CA": "0x4396727E7adaC2Ac5f7Ed75D0a275af0dBa1B991",      
+        "TotalSupply": "999999999", 
+        "CirculatingSupply": "999999999",  
+        "WhereChain": "BSC", 
+        "TokenType": "BEP20",  
+        "Tags":"MEME",    
+        "Token-Description": "The spirit of Black Wukong is all about “being the king, even against the odds.” It stands for unity, freedom, rising from adversity, daring to play, and endless creativity. No matter how tough reality gets, we stay optimistic, have fun together, and face everything with a smile!",  
     },   
     "Project": {  
-        "Title": "",  // Project name, e.g., "SYNBO protocol"  
-        "Logo": "",  // svg file，less 300 * 300   
-        "Description": "",  // Project introduction within 50 characters   
-        "Chains": "",  // Supported blockchains, e.g., "ETH, BNB" , MiltiChain  
-        "Tokens":" " // List of Tokens Related to the Project， Format："Token-CA,Token-CA"   
+        "Title": "HeiwukongToken",  
+        "Logo": "", 
+        "Description": "It's a MEME , The spirit of Black Wukong is all about “being the king, even against the odds.", 
+        "Chains": "BSC",  
+        "Tokens":"HEI"    
     },   
     "Social": {   
         "Website": "",   
