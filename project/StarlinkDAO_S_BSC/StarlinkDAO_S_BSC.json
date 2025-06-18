@@ -1,0 +1,32 @@
+{
+    "Token": {
+        "Name": "StarlinkDAO",
+        "Symbol": "S",
+        "Logo": "<svg width=\"120\" height=\"120\" viewBox=\"0 0 120 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M60 14C84.3005 14 104 33.6995 104 58C104 82.3005 84.3005 102 60 102C35.6995 102 16 82.3005 16 58C16 33.6995 35.6995 14 60 14ZM60 19C38.4609 19 21 36.4609 21 58C21 79.5391 38.4609 97 60 97C81.5391 97 99 79.5391 99 58C99 36.4609 81.5391 19 60 19ZM61 31H62V38H61V44.0332C68.3201 44.515 74.2057 50.2475 74.9258 57.5H90V60.5H74.9258C74.2222 67.5866 68.5866 73.2212 61.5 73.9248V87.5H58.5V73.9248C51.4134 73.2212 45.7778 67.5866 45.0742 60.5H30.5V57.5H45.0742C45.7612 50.5809 51.1497 45.0445 58 44.1318V38H57V31H58V26.5H61V31ZM61 47.5H58V47.167C52.3247 48.1192 48 53.0541 48 59C48 65.6274 53.3726 71 60 71C66.6274 71 72 65.6274 72 59C72 52.7093 67.1595 47.5492 61 47.041V47.5ZM60 52C63.866 52 67 55.134 67 59C67 62.866 63.866 66 60 66C56.134 66 53 62.866 53 59C53 55.134 56.134 52 60 52Z\" fill=\"#FF4B00\"/></svg>",
+        "CA": "0x5F784564342E8FE7F02ab2Db0E181D3155d50B18",
+        "TotalSupply": "21000000000",
+        "CirculatingSupply": "21000000000",
+        "WhereChain": "BSC",
+        "TokenType": "BEP20",
+        "Tags": "DAO",
+        "Token-Description": "StalinkDAO is a decentralized, on-chain community consensus protocol that belongs to no one but is governed by everyone.",
+        "Project-Relationship": "The Stalink token empowers community members to participate in governance and build the decentralized Stalink ecosystem together."
+    },
+    "Project": {
+        "Title": "StarlinkDAO",
+        "Logo": "<svg width=\"120\" height=\"120\" viewBox=\"0 0 120 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M60 14C84.3005 14 104 33.6995 104 58C104 82.3005 84.3005 102 60 102C35.6995 102 16 82.3005 16 58C16 33.6995 35.6995 14 60 14ZM60 19C38.4609 19 21 36.4609 21 58C21 79.5391 38.4609 97 60 97C81.5391 97 99 79.5391 99 58C99 36.4609 81.5391 19 60 19ZM61 31H62V38H61V44.0332C68.3201 44.515 74.2057 50.2475 74.9258 57.5H90V60.5H74.9258C74.2222 67.5866 68.5866 73.2212 61.5 73.9248V87.5H58.5V73.9248C51.4134 73.2212 45.7778 67.5866 45.0742 60.5H30.5V57.5H45.0742C45.7612 50.5809 51.1497 45.0445 58 44.1318V38H57V31H58V26.5H61V31ZM61 47.5H58V47.167C52.3247 48.1192 48 53.0541 48 59C48 65.6274 53.3726 71 60 71C66.6274 71 72 65.6274 72 59C72 52.7093 67.1595 47.5492 61 47.041V47.5ZM60 52C63.866 52 67 55.134 67 59C67 62.866 63.866 66 60 66C56.134 66 53 62.866 53 59C53 55.134 56.134 52 60 52Z\" fill=\"#FF4B00\"/></svg>",
+        "Description": "Starlink is dedicated to building a fully on-chain, decentralized, consensus-driven space community protocol, paying tribute to Satoshi Nakamoto. It aims to construct a world on-chain that cannot be co-opted, through community and consensus—challenging the crypto order already colonized by Wall Street and rekindling the blockchain spirit of fairness, justice, and free collaboration. It belongs to no one, yet is governed by every member of the community.",
+        "Chains": "BSC",
+        "Tokens": "0x5F784564342E8FE7F02ab2Db0E181D3155d50B18"
+    },
+    "Social": {
+        "Website": "https://starlink.io",
+        "Twitter": "https://twitter.com/StarlinkDAO",
+        "Telegram": "https://t.me/StarlinkDAO",
+        "Github": "/",
+        "Medium": "/",
+        "Discord": "/",
+        "Email": "starlink.io",
+        "Others": "/"
+    }
+}
