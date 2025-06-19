@@ -1,3 +1,28 @@
+# 📢 Dear Community Members and Brokers,
+
+We hereby make a formal statement: **As an open and permissionless protocol, CCO does not conduct any vetting or endorsement of listed projects.** This principle aligns with the spirit of other public blockchain protocols such as Uniswap.
+
+### ✅ Core Principle: Permissionless Operation  
+CCO is a fully decentralized protocol. **Any project can be freely created, published, and participated in without requiring any approval or review from the platform.**
+
+We firmly believe that **"position consensus" is the most fair and just filter in the Web3 world**.  
+Just as Satoshi Nakamoto never reviewed each block nor judged who should be rewarded。  
+
+### <span style="color:red"> **the platform does not assess whether a project is “good or bad,” “true or false,” or whether it has “potential.”**。
+
+Everything operates based on **position proof** — that is the true value of the protocol. </span>    
+### We collect the following information **solely to help brokers access data more effectively for their own research and consensus judgment** — it is **not** for the purpose of review or recommendation.
+
+
+
+
+-------------------------------
+----------------
+--------
+---
+
+
+
 # Project Submission Guidelines
 
 Please submit projects using **feature branches**.
