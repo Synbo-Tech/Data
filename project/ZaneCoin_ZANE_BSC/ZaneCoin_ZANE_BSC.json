@@ -1,0 +1,32 @@
+{
+    "Token": {
+        "Name": "Zane Coin",  
+        "Symbol": "ZANE",   
+        "Logo": "",  
+        "CA": "",    
+        "TotalSupply": "1000,000,000", 
+        "CirculatingSupply": "1000,000,000",   
+        "WhereChain": "BSC",    
+        "TokenType": "BEP20",    
+        "Tags":"AI",    
+        "Token-Description": "The fuel that powers the decentralized ecosystem of next-generation computing terminals.",   
+        "Project-Relationship": "The main token of the Zane project is the fuel that powers the decentralized ecosystem of next-generation computing terminals."
+    },   
+    "Project": {  
+        "Title": "Zame",  
+        "Logo": "", 
+        "Description": "Zane is an AI company with a keen sense of innovation, committed to solving the challenges of "human-machine symbiosis" in the Web3 era through cutting-edge AI hardware and software. ",  
+        "Chains": "BSC",  
+        "Tokens":"ZANE-* "    
+    },   
+    "Social": {   
+        "Website": "",   
+        "Twitter": "",   
+        "Telegram": "",   
+        "Github": "",   
+        "Medium": "",   
+        "Discord": "",   
+        "Email": "",   
+        "Others": ""  
+    }  
+}   
