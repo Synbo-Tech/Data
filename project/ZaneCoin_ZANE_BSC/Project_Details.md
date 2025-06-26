@@ -5,6 +5,7 @@
 **Name | 项目名称**: Zane  
 **Industry | 所属行业**: AI / Web3 / 新型算力终端
 
+
 **Brief Description | 项目简介 (EN)**:  
 Zane is an innovative AI company committed to addressing the "human-machine symbiosis" challenge in the Web3 era through cutting-edge AI hardware and software. As a frontrunner in the AI sector, Zane operates next-generation computing terminals under the brand "Lingxin Companion." Leveraging proprietary LLMs, multimodal models, and custom AI chips, it provides users with spiritual, emotional, and professional value via 3D personas such as Mazu, family members, and therapists. Zane is seeking $10 million in funding to support AI R&D, physical stores, and terminal ecosystem development. The token is expected to grow over 200% in value within the year, with projected annual returns of 22%+ and revenues reaching billions within three years.
 
