@@ -6,10 +6,10 @@
 **Industry｜行业领域**: AI / Web3 / Next-gen Computing Terminals 新型算力终端  
 **Token｜代币名称**: Zane Coin (BEP-20, BSC-Compatible)  
 **Fundraising Round｜融资轮次**: Pre-Seed 早期轮  
-**Fundraising Goal｜融资目标**: **$300,000 USDT（三十万美元）**  
+**Fundraising Goal｜融资目标**: **$100,000 USDT（三十万美元）**  
 **Token Price｜代币单价**: $0.02 USDT  
-**Token Allocation｜本轮代币分配**: 15,000,000 枚，占总量 1.5%  
-**Pre-money Valuation｜融资前估值**: $50,000,000 美元  
+**Token Allocation｜本轮代币分配**: 5,000,000 枚，占总量 0.5%  
+**Pre-money Valuation｜融资前估值**: $20,000,000 美元  
 **Accepted Currency｜接受币种**: BNB  
 **Vesting｜代币释放机制**: TGE 解锁 20%，剩余 12 个月线性释放  
 **Target Users｜主要面向用户**: Web3 投资者 / AI 爱好者 / 中长期生态共建者
