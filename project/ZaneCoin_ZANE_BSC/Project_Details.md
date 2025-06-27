@@ -12,7 +12,6 @@ Zane is an innovative AI company committed to addressing the "human-machine symb
 **项目简介 (ZH)**:  
 Zane是一家具有敏锐创新能力的AI公司，致力于通过尖端AI软硬件解决Web3时代“人机共生”难题，是AI赛道的领跑者之一。公司主要运营新型算力终端品牌“灵芯伴”，依托自研文本与多模态大模型及专属芯片，融合妈祖、亲人、心理咨询师等3D形象，为用户提供信仰、情绪和专业价值。计划融资1000万美元，用于AI研发、实体门店及算力终端生态构建。预计年内币值增长超200%，年收益率不低于22%，三年内营收突破千亿。
 
----
 
 ## 2. Whitepaper | 白皮书
 
@@ -20,7 +19,6 @@ Zane是一家具有敏锐创新能力的AI公司，致力于通过尖端AI软硬
 **Content Summary | 内容摘要**:  
 The whitepaper outlines Zane’s mission to build a global decentralized computing terminal ecosystem over the next 3–5 years, focusing on six verticals: food, housing, transportation, travel, shopping, and entertainment. It details technical architecture (LLMs, 3D personas, secure chips), vision goals, and a 3-year roadmap.
 
----
 
 ## 3. Tokenomics | 代币经济学
 
@@ -46,8 +44,6 @@ The whitepaper outlines Zane’s mission to build a global decentralized computi
 **Token Purpose | 用途**:  
 Zane代币并非融资工具，而是驱动去中心化新型算力终端生态的燃料。配有严格锁仓和通缩机制（50%利润回购销毁），以确保长期价值。
 
----
-
 ## 4. Token Details | 代币信息
 
 **Token Standard | 代币标准**: BEP-20 (BSC-compatible)  
@@ -60,14 +56,12 @@ Zane代币并非融资工具，而是驱动去中心化新型算力终端生态�
 
 **Smart Contract Code | 智能合约代码**: [To be provided]
 
----
 
 ## 5. Valuation | 估值
 
 **Pre-money Valuation | 募资前估值**: $50 million  
 **Supporting Docs | 支持文件**: [To be provided]
 
----
 
 ## 6. Fundraising Goal | 募资目标
 
@@ -77,14 +71,12 @@ Zane代币并非融资工具，而是驱动去中心化新型算力终端生态�
 - Offline Stores  
 - Ecosystem Development  
 
----
 
 ## 7. Success Criteria | 成功标准
 
 Fundraising is deemed successful if soft cap is reached within 48 hours. Otherwise, tokens are refundable.  
 48小时内达软顶即成功，否则可退还Token。
 
----
 
 ## 8. Credentials | 资质文件
 
@@ -96,7 +88,6 @@ Registered in Hong Kong [See attachment]
 - **CTO – 刘翀 (Toby Liu)**: 前上市公司CTO，分布式AI专家，拥有5项专利，开发动态神经压缩技术。
 - **CMO – 颜扬波 (Alex Yan)**: 前上市公司副总裁与全球供应链总监，联合22家ODM，7天交付体系构建者。
 
----
 
 ## 9. Brand Assets | 品牌素材
 
@@ -104,11 +95,12 @@ Registered in Hong Kong [See attachment]
 - Promo Video (30s): [To be added]  
 - Website: [To be added]
 
----
-
 ## 10. Social Media | 社交媒体
 
 - Twitter: [To be added]  
 - Telegram: [To be added]  
 - Discord: [To be added]  
 - GitHub: [To be added]
+
+## 11. Attachment
+<img width="389" alt="image" src="https://github.com/user-attachments/assets/3c713098-d7e7-420e-8d49-dabad7f0f040" />
