@@ -8,7 +8,7 @@
 **Fundraising Round｜融资轮次**: Pre-Seed 早期轮  
 **Fundraising Goal｜融资目标**: **$300,000 USDT（三十万美元）**  
 **Token Price｜代币单价**: $0.02 USDT  
-**Token Allocation｜本轮代币分配**: 60,000,000 枚，占总量 1.5%  
+**Token Allocation｜本轮代币分配**: 15,000,000 枚，占总量 1.5%  
 **Pre-money Valuation｜融资前估值**: $50,000,000 美元  
 **Accepted Currency｜接受币种**: BNB  
 **Vesting｜代币释放机制**: TGE 解锁 20%，剩余 12 个月线性释放  
