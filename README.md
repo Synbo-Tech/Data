@@ -13,7 +13,24 @@ Just as Satoshi Nakamoto never reviewed each block nor judged who should be rewa
 Everything operates based on **position proof** — that is the true value of the protocol. </span>    
 ### We collect the following information **solely to help brokers access data more effectively for their own research and consensus judgment** — it is **not** for the purpose of review or recommendation.
 
+---
+## Investment Disclaimer
 
+This platform serves solely as an information and service portal for decentralized projects. It does not initiate, manage, or guarantee any fundraising or token subscription activities. All project-related materials, data, whitepapers, and token models are published by the respective project teams. The platform does not conduct in-depth due diligence or endorse any projects.
+
+Investing in digital assets carries risk. Participation in fundraising, token subscription, or trading activities via this platform is entirely at the user's own discretion and risk. The platform shall not be held liable for any financial loss, profit fluctuation, or legal consequence arising therefrom.
+
+Important reminders:
+
+- The platform does not provide any form of investment advice or profit guarantees;
+
+- The platform does not guarantee the authenticity, legality, or feasibility of any project;
+
+- Users should make decisions based on independent research and risk tolerance;
+
+- The platform reserves the right to adjust, suspend, or remove certain features in response to regulatory requirements.
+
+By using this platform, you acknowledge that you have read, understood, and accepted this disclaimer. If you do not agree, please refrain from participating in any subscription or investment activity.
 
 
 -------------------------------
