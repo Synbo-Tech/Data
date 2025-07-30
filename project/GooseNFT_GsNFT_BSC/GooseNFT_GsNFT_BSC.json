@@ -1,0 +1,32 @@
+{
+    "Token": {
+        "Name": "GooseNFT",
+        "Symbol": "GsNFT",
+        "Logo": "<svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" \" /></svg>",
+        "CA": "0xEFd1d943bF2d846C95aD33431d927736910aE0D2",
+        "TotalSupply": "41000",
+        "CirculatingSupply": "41000",
+        "WhereChain": "BSC",
+        "TokenType": "BEP20",
+        "Tags": "TOKEN",
+        "Token-Description": "This is only a proxy certificate for the NFT sale. ",
+        "Project-Relationship": "/ "
+    },
+    "Project": {
+        "Title": "Cycle Network",
+        "Logo": "<svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" \" /></svg>"
+        "Description": "/",
+        "Chains": "/",
+        "Tokens": "/"
+    },
+    "Social": {
+        "Website": "cyclenetwork.io",
+        "Twitter": "/",
+        "Telegram": "/",
+        "Github": " ",
+        "Medium": " ",
+        "Discord": " ",
+        "Email": "",
+        "Others": "goose.farm"
+    }
+}
