@@ -3,12 +3,12 @@
 **Name**: GooseNFT  
 **Symbol**: GsNFT (398 GsNFT = 1 Goose NFT)  
 **Distribution Amount**: 41,000 GsNFT (103 Goose NFT)  
-**Price**: 398 USDT  
-**Discount Rate**: 5%  
+**Price**: 390 USDT  
+**Discount Rate**: 10%  
 **Premium Rate**: 10%  
 **Contract Address (CA)**: `0xEFd1d943bF2d846C95aD33431d927736910aE0D2`
 
-> **Note**: To enjoy full NFT benefits, holders must own **1 full Goose NFT**, equivalent to **398 GsNFT**.
+> **Note**: To enjoy full NFT benefits, holders must own **1 full Goose NFT**, equivalent to **390 GsNFT**.
 
 ---
 
