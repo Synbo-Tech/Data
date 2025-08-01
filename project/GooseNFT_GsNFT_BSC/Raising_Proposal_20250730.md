@@ -25,7 +25,7 @@
 ### 2. $GOOSE Airdrop
 
 - **Airdrop Plan**:
-  - 123.90 $GOOSE airdropped immediately at TGE  
+  - 12390 $GOOSE airdropped immediately at TGE  
   - 3,500 $GOOSE per month over 12 months (**Total: 42,000 $GOOSE**)
 
 > **Note**: Please try to purchase **390 GsNFT** to enjoy the full benefits of **1 Goose NFT**..
