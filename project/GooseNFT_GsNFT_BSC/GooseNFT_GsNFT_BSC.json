@@ -10,23 +10,23 @@
         "TokenType": "BEP20",
         "Tags": "TOKEN",
         "Token-Description": "This is only a proxy certificate for the NFT sale.",
-        "Project-Relationship": "/ "
+        "Project-Relationship": "From Cycle Network"
     },
     "Project": {
         "Title": "Cycle Network",
         "Logo": "",
-        "Description": "/",
-        "Chains": "/",
-        "Tokens": "/"
+        "Description": "",
+        "Chains": "",
+        "Tokens": ""
     },
     "Social": {
-        "Website": "cyclenetwork.io",
-        "Twitter": "/",
-        "Telegram": "/",
-        "Github": "/ ",
-        "Medium": " ",
-        "Discord": " ",
+        "Website": "https://cyclenetwork.io",
+        "Twitter": "",
+        "Telegram": "",
+        "Github": "",
+        "Medium": "",
+        "Discord": "",
         "Email": "",
-        "Others": "goose.farm"
+        "Others": "https://goose.farm"
     }
 }
