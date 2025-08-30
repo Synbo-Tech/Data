@@ -1,1 +1,32 @@
-//
+{
+    "Token": {
+        "Name": " ",
+        "Symbol": " ",
+        "Logo": "<svg>**</svg>",
+        "CA": " ",
+        "TotalSupply": " ",
+        "CirculatingSupply": " ",
+        "WhereChain": "BSC",
+        "TokenType": "BEP20",
+        "Tags": " ",
+        "Token-Description": "**",
+        "Project-Relationship": "**"
+    },
+    "Project": {
+        "Title": "**",
+        "Logo": "<svg> % </svg>",
+        "Description": "**",
+        "Chains": "BSC",
+        "Tokens": "*"
+    },
+    "Social": {
+        "Website": "/",
+        "Twitter": "/",
+        "Telegram": "/",
+        "Github": "/",
+        "Medium": "/",
+        "Discord": "/",
+        "Email": "/",
+        "Others": "/"
+    }
+}
