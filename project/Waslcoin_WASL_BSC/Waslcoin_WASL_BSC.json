@@ -1,32 +1,32 @@
 {
     "Token": {
-        "Name": " ",
-        "Symbol": " ",
+        "Name": "Waslcoin ",
+        "Symbol": "WASL ",
         "Logo": "<svg>**</svg>",
-        "CA": " ",
-        "TotalSupply": " ",
-        "CirculatingSupply": " ",
+        "CA": " 0xF7ac60B4d08598bbDe3C364e7e04A87804de865D",
+        "TotalSupply": " 5000",
+        "CirculatingSupply": "500 ",
         "WhereChain": "BSC",
         "TokenType": "BEP20",
-        "Tags": " ",
-        "Token-Description": "**",
-        "Project-Relationship": "**"
+        "Tags": "Defi,Meme ",
+        "Token-Description": "*limited supply of 5,000 coins powering a new model of transparent, community-led philanthropy*",
+        "Project-Relationship": "WASL is the native token of Waslcoin , A Trifecta of Value**"
     },
     "Project": {
-        "Title": "**",
+        "Title": "*Waslcoin*",
         "Logo": "<svg> % </svg>",
-        "Description": "**",
+        "Description": "*Wasl Coin The World’s Rarest Digital Asset for Global Impact*",
         "Chains": "BSC",
-        "Tokens": "*"
+        "Tokens": "*0xF7ac60B4d08598bbDe3C364e7e04A87804de865D"
     },
     "Social": {
-        "Website": "/",
-        "Twitter": "/",
-        "Telegram": "/",
+        "Website": "https://waslcoin.carrd.co/",
+        "Twitter": "https://x.com/waslcoin?s=21 ",
+        "Telegram": "https://t.me/WaslCoin ",
         "Github": "/",
         "Medium": "/",
         "Discord": "/",
-        "Email": "/",
+        "Email": "project-info@waslcoin.com",
         "Others": "/"
     }
 }
